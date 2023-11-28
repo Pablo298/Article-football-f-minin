@@ -1,0 +1,25 @@
+h1{
+	background-color: #EEE5BF;
+	font-size : 45px;
+	font-family:"bebas Neue",sans-serif;
+	text-align: justify;
+}
+
+body{
+	background-color: #EEE5BF;
+	font-size:22px;
+	text-align: justify;
+	box-shadow: 200px 200px 230px #DDBEA8;
+	margin: 70px;
+	padding: 100px 220px;
+	border: 2px solid black;
+	}
+.img {
+	width: 900px;
+}
+
+.center {
+	text-align: center;
+}
+
+
